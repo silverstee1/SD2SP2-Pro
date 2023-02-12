@@ -1,0 +1,827 @@
+194854794909789
+VideoGames_KiCad6
+20mmx20mm_Copper_MaskOnly
+
+
+0
+0
+0
+VideoGames_KiCad6
+20x20mm_Copper_Pad
+
+
+0
+2
+1
+VideoGames_KiCad6
+30mm_Fan
+
+
+0
+20
+2
+VideoGames_KiCad6
+40mm_Fan
+
+
+0
+4
+0
+VideoGames_KiCad6
+40mm_Fan_Blower
+
+
+0
+0
+0
+VideoGames_KiCad6
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
+0
+3
+3
+VideoGames_KiCad6
+CONN_2X20_SMD
+
+
+0
+40
+40
+VideoGames_KiCad6
+CONN_FFC_4P_1MM_VERTICAL_C2908547
+
+
+0
+4
+4
+VideoGames_KiCad6
+CONN_USB-MICRO_VERT
+
+
+0
+7
+6
+VideoGames_KiCad6
+CP_EIA-3528-12_Kemet-T
+Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+VideoGames_KiCad6
+CP_EIA-6032-28_Kemet-C
+Tantalum Capacitor SMD Kemet-C (6032-28 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+VideoGames_KiCad6
+CP_EIA-7343-20_Kemet-V
+Tantalum Capacitor SMD Kemet-V (7343-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+VideoGames_KiCad6
+CP_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x7.7mm
+capacitor electrolytic
+0
+2
+2
+VideoGames_KiCad6
+CP_Elec_8x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+VideoGames_KiCad6
+CP_Elec_10x10.5
+SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+VideoGames_KiCad6
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+VideoGames_KiCad6
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+VideoGames_KiCad6
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+VideoGames_KiCad6
+Conn_M.2-TE-0.5-67P-doublesided
+
+
+0
+77
+75
+VideoGames_KiCad6
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+VideoGames_KiCad6
+DC_Jack_3.4x1.3mm
+
+
+0
+3
+3
+VideoGames_KiCad6
+DC_Jack_Horizontal_MP_5.5x2.1mm
+
+
+0
+3
+3
+VideoGames_KiCad6
+DE10-Nano_CAD_Power_Express
+
+
+0
+0
+0
+VideoGames_KiCad6
+DE10-Nano_CAD_Power_Express_Imperfect
+
+
+0
+2
+2
+VideoGames_KiCad6
+DIODE-DO-214AC
+
+
+0
+2
+2
+VideoGames_KiCad6
+Dreamcast_Female
+
+
+0
+6
+6
+VideoGames_KiCad6
+EDAC 690-019-298-412
+
+
+0
+23
+23
+VideoGames_KiCad6
+ESP32-WROOM-32
+Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
+0
+39
+39
+VideoGames_KiCad6
+HDMI
+
+
+0
+23
+20
+VideoGames_KiCad6
+HDMI_MALE_VERT_C168715
+
+
+0
+21
+20
+VideoGames_KiCad6
+HDMI_VERT
+
+
+0
+0
+0
+VideoGames_KiCad6
+Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-20S-0.5SH, 20 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+22
+21
+VideoGames_KiCad6
+Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
+Molex FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+24
+23
+VideoGames_KiCad6
+Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal
+Molex FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+42
+41
+VideoGames_KiCad6
+IR_Vishay_MOLD-3Pin
+IR Receiver Vishay TSOP-xxxx, MOLD package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf
+IR Receiver Vishay TSOP-xxxx MOLD
+0
+3
+3
+VideoGames_KiCad6
+Idaho_L
+
+
+0
+0
+0
+VideoGames_KiCad6
+Idaho_M
+
+
+0
+0
+0
+VideoGames_KiCad6
+Idaho_S
+
+
+0
+0
+0
+VideoGames_KiCad6
+Idaho_XL
+
+
+0
+0
+0
+VideoGames_KiCad6
+JST_XH_B8B-XH-AM_1x08_P2.50mm_Vertical
+JST XH series connector, B8B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
+0
+8
+8
+VideoGames_KiCad6
+JST_XS_S2B_C33132
+JST XH series connector, S2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+2
+2
+VideoGames_KiCad6
+Joystick_Universal
+
+
+0
+0
+0
+VideoGames_KiCad6
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+VideoGames_KiCad6
+LED_SMD_SIDE
+
+
+0
+4
+4
+VideoGames_KiCad6
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+VideoGames_KiCad6
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+VideoGames_KiCad6
+L_12x12mm_H8mm
+Choke, SMD, 12x12mm 8mm height
+Choke SMD
+0
+2
+2
+VideoGames_KiCad6
+L_0805_2012Metric
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+VideoGames_KiCad6
+L_Bourns_SRN6045TA
+http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf
+Semi-shielded Power Inductor
+0
+2
+2
+VideoGames_KiCad6
+M.2-B+M-KEY
+
+
+0
+60
+60
+VideoGames_KiCad6
+M.2-B-KEY
+
+
+0
+68
+68
+VideoGames_KiCad6
+M.2-B-KEY-2280-ADAPTER
+
+
+0
+69
+69
+VideoGames_KiCad6
+M.2-KEY-BLANK
+
+
+0
+76
+76
+VideoGames_KiCad6
+M.2_NGFF_A
+
+
+0
+67
+67
+VideoGames_KiCad6
+M.2_NGFF_B
+
+
+0
+67
+67
+VideoGames_KiCad6
+M.2_NGFF_B+M
+
+
+0
+59
+59
+VideoGames_KiCad6
+M.2_NGFF_E
+
+
+0
+67
+67
+VideoGames_KiCad6
+MOLEX_USB_67298-4090
+
+
+0
+12
+12
+VideoGames_KiCad6
+MSOP-10_3x3mm_P0.5mm
+10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.5
+0
+10
+10
+VideoGames_KiCad6
+MiSTer_Addons_MA_15mm
+
+
+0
+0
+0
+VideoGames_KiCad6
+Micro USB
+
+
+0
+9
+6
+VideoGames_KiCad6
+Micro_SD_C113206
+
+
+0
+13
+9
+VideoGames_KiCad6
+MiniDin4
+
+
+0
+6
+4
+VideoGames_KiCad6
+MountingHole_3mm_Pad
+Mounting Hole 3mm
+mounting hole 3mm
+0
+1
+1
+VideoGames_KiCad6
+NGFF_M
+
+
+0
+67
+67
+VideoGames_KiCad6
+PCIex1-36
+
+
+0
+38
+37
+VideoGames_KiCad6
+POT_SMD_C128556
+
+
+0
+3
+3
+VideoGames_KiCad6
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+VideoGames_KiCad6
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+VideoGames_KiCad6
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+VideoGames_KiCad6
+PinSocket_1x08_P2.54mm_Vertical
+Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x08 2.54mm single row
+0
+8
+8
+VideoGames_KiCad6
+PinSocket_2x04_P2.54mm_Vertical
+Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x04 2.54mm double row
+0
+8
+8
+VideoGames_KiCad6
+RCA
+
+
+0
+2
+2
+VideoGames_KiCad6
+RJ45_Amphenol_RJHSE538X
+Shielded, 2 LED, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
+RJ45 8p8c ethernet cat5
+0
+14
+13
+VideoGames_KiCad6
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+VideoGames_KiCad6
+RP2040_Programmer
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+5
+5
+VideoGames_KiCad6
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+VideoGames_KiCad6
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+VideoGames_KiCad6
+R_2010_5025Metric
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+VideoGames_KiCad6
+Raspberry-Pi-4-Compute-Module
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
+VideoGames_KiCad6
+Raspberry-Pi-4-Compute-Module-1-100
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+100
+100
+VideoGames_KiCad6
+Raspberry-Pi-4-Compute-Module-101-200
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+100
+100
+VideoGames_KiCad6
+SCHOTTKY_TO-277B
+TO-227B https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/DST2050S.pdf
+TO-277B
+0
+9
+3
+VideoGames_KiCad6
+SDCARD_MOLEX_503398-1892
+
+
+0
+14
+11
+VideoGames_KiCad6
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias
+SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+23
+9
+VideoGames_KiCad6
+SOIC127P790X216-8N
+
+
+0
+8
+8
+VideoGames_KiCad6
+SOP-8_3.9x4.9mm_P1.27mm_C88319
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+9
+9
+VideoGames_KiCad6
+SOP-16_4.4x10.4mm_P1.27mm
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+SOP 1.27
+0
+16
+16
+VideoGames_KiCad6
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+VideoGames_KiCad6
+SOT-23-5_HandSoldering
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+5
+5
+VideoGames_KiCad6
+SOT-89-3
+SOT-89-3, http://ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf
+SOT-89-3
+0
+3
+3
+VideoGames_KiCad6
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+VideoGames_KiCad6
+STDFN-8P
+
+
+0
+8
+8
+VideoGames_KiCad6
+SW_Push_SPST_NO_Alps_SKRK
+http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html
+SMD SMT button
+0
+2
+2
+VideoGames_KiCad6
+SW_Rotary_Up_To_7
+
+
+0
+8
+8
+VideoGames_KiCad6
+SW_SPDT_Rocker_ C1788503
+
+
+0
+5
+3
+VideoGames_KiCad6
+SW_SPDT_Toggle_C1788489
+
+
+0
+5
+3
+VideoGames_KiCad6
+SW_SPST_6x6_C499305_C499302
+Surface Mount Tactile Switch for High-Density Packaging
+Tactile Switch
+0
+5
+2
+VideoGames_KiCad6
+SW_Tactile_SPST_Angled_8mm
+tactile switch SPST right angle, PTS645VL58-2 LFS
+tactile switch SPST angled PTS645VL58-2 LFS C&K Button
+0
+4
+2
+VideoGames_KiCad6
+SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+VideoGames_KiCad6
+Spinner_600ppr
+
+
+0
+0
+0
+VideoGames_KiCad6
+TRJG0926HENL
+https://p.globalsources.com/IMAGES/PDT/SPEC/690/K1160305690.pdf
+RJ45 Magjack
+0
+20
+20
+VideoGames_KiCad6
+TSOP-6_1.65x3.05mm_P0.95mm
+TSOP-6 package (comparable to TSOT-23), https://www.vishay.com/docs/71200/71200.pdf
+Jedec MO-193C TSOP-6L
+0
+6
+6
+VideoGames_KiCad6
+TSSOP-16_4.4x5mm_P0.65mm
+TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+16
+16
+VideoGames_KiCad6
+Texas_DSBGA-10_1.36x1.86mm_Layout3x4_P0.5mm
+Texas Instruments, DSBGA, 1.36x1.86mm, 10 bump 3x4 (perimeter) array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/txs0104e.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)
+Texas Instruments DSBGA BGA
+0
+20
+10
+VideoGames_KiCad6
+UDFN-10_1.35x2.6mm_P0.5mm
+http://www.st.com/content/ccc/resource/technical/document/datasheet/f2/11/8a/ed/40/31/40/56/DM00088292.pdf/files/DM00088292.pdf/jcr:content/translations/en.DM00088292.pdf
+UDFN 0.5 uQFN
+0
+10
+10
+VideoGames_KiCad6
+UQFN10
+
+
+0
+10
+10
+VideoGames_KiCad6
+USB2_A_HOR_C42425
+
+
+0
+6
+5
+VideoGames_KiCad6
+USB2_A_Right_Angle
+
+
+0
+6
+5
+VideoGames_KiCad6
+USB2_A_Right_Angle_Slits
+
+
+0
+6
+5
+VideoGames_KiCad6
+USB3_AB_Micro
+
+
+0
+16
+10
+VideoGames_KiCad6
+USB3_A_C69073
+USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
+USB 3.0 type A right angle
+0
+11
+10
+VideoGames_KiCad6
+USB_A_Wuerth_61400826021_Horizontal_Stacked
+Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf
+Wuerth stacked USB_A
+0
+12
+9
+VideoGames_KiCad6
+USB_Micro-B_EDAC_UCON00686
+Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
+USB USB_B USB_micro USB_OTG
+0
+17
+6
+VideoGames_KiCad6
+VSON-14
+
+
+0
+15
+14
+VideoGames_KiCad6
+WQFN42_NCN7200
+
+
+0
+43
+43
+VideoGames_KiCad6
+WS2812B-4020
+
+
+0
+4
+4
+VideoGames_KiCad6
+WS2813B_MINI
+
+
+0
+6
+6

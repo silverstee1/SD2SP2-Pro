@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0402_1005Metric,88.1,-87.8,180.0,top
+J2,Conn_02x04_Odd_Even,PinSocket_2x04_P2.54mm_Vertical_SMD,89.064,-65.0,0.0,top
+J3,Micro_SD_Card,Micro_SD_C113206,95.8,-87.8,90.0,top

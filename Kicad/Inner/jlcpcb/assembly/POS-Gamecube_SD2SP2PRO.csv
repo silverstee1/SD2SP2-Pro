@@ -1,0 +1,3 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x04_Odd_Even,PinHeader_2x04_P2.54mm_Horizontal,77.160286,-116.25,90.0,top
+P1,SerialPort,SP2_FootPrint,98.064286,-115.9,180.0,bottom
