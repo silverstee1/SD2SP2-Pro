@@ -32,12 +32,13 @@ LCSC Part# C7470
 Alt Digikey Part# 1727-3067-1-ND
 
 Inside PCB
+
 J1: 02x04 Male Right Angle Pin Header - DigiKey Part# 10129382-908002BLF-ND
 LCSC Part# C492432
 
-=====================================
 
-Special thanks to:  
+Special thanks to:
+=====================================
  * citrus3000psi for the original project
  * MockyLock for the idea
  * misteraddons for the SD2SP2 PRO  
