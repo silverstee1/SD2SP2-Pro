@@ -48,7 +48,7 @@ LCSC Part# C113206
 
 LCSC Part# C7470
 
-Alt Digikey Part# 1727-3067-1-ND
+Alt Nexperia Digikey Part# 1727-3067-1-ND
 
 
 
