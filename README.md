@@ -10,6 +10,13 @@ I recommened https://jlcpcb.com for PCB production.
 
 ![The serial port SD adapter installed into the bottom of a GameCube](https://github.com/misteraddons/SD2SP2-Pro/blob/master/Assets/side.jpg?raw=true "SD2SP2")
 
+# SD2SP2 Pro
+
+![pcb1-min](https://github.com/silverstee1/SD2SP2-Pro/assets/54997238/9f54725f-131c-45a7-a1ca-24f069668f79)
+
+![pcb2-min](https://github.com/silverstee1/SD2SP2-Pro/assets/54997238/78f84408-46c2-400c-9989-09444aeecdcc)
+
+
 SD2SP2 PRO 2.0 BOM
 =====================================
 The inside PCB must be ordered in 1.2mm thickness. Surface finish must be ENIG at minimum.
@@ -33,7 +40,7 @@ Alt Digikey Part# 1727-3067-1-ND
 
 Inside PCB
 
-J1: 02x04 Male Right Angle Pin Header - DigiKey Part# 10129382-908002BLF-ND
+J1: 02x04 2.54mm Male Right Angle Pin Header - DigiKey Part# 10129382-908002BLF-ND
 LCSC Part# C492432
 
 
