@@ -1302,7 +1302,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1328,7 +1328,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C7470"
+		(property "LCSC Part" "C12488"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

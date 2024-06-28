@@ -2337,7 +2337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
+		(property "Datasheet" ""
 			(at 96.52 109.22 0)
 			(effects
 				(font
@@ -2348,6 +2348,15 @@
 		)
 		(property "Description" "Single OR Gate, Low-Voltage CMOS"
 			(at 96.52 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C12488"
+			(at 96.52 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
