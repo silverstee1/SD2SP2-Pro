@@ -50,6 +50,8 @@ LCSC Part# C7470
 
 Alt Nexperia Digikey Part# 1727-3067-1-ND
 
+LCSC Alt Nexperia Part# C12488
+
 
 
 **Inside PCB**
