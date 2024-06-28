@@ -10,7 +10,11 @@ I recommened https://jlcpcb.com for PCB production.
 
 ![The serial port SD adapter installed into the bottom of a GameCube](https://github.com/misteraddons/SD2SP2-Pro/blob/master/Assets/side.jpg?raw=true "SD2SP2")
 
-# SD2SP2 Pro
+
+
+# SD2SP2 Pro 2.0
+
+
 
 ![pcb1-min](https://github.com/silverstee1/SD2SP2-Pro/assets/54997238/9f54725f-131c-45a7-a1ca-24f069668f79)
 
