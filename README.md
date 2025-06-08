@@ -8,6 +8,8 @@ The outside PCB must be ordered in 2.0mm thickness.
 
 I recommened https://jlcpcb.com for PCB production.
 
+***Occasionally when recieving the pcb's from JLCPCB the outside pcb may have a bump/not flush cut near the SP1 side when it was cut at the fab and might require sanding to smooth it out for a better fit.***
+
 ![The serial port SD adapter installed into the bottom of a GameCube](https://github.com/misteraddons/SD2SP2-Pro/blob/master/Assets/side.jpg?raw=true "SD2SP2")
 
 
