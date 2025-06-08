@@ -1,7 +1,3 @@
-# SD2SP2 Pro
-
-![This PCB allows a MicroSD card to adapted into the serial port2 of the gamecube.](https://github.com/misteraddons/SD2SP2-Pro/blob/master/Assets/assembly.jpeg?raw=true "SD2SP2")
-
 The inside PCB must be ordered in 1.2mm thickness. Surface finish must be ENIG at minimum.
 
 The outside PCB must be ordered in 2.0mm thickness.
@@ -11,10 +7,6 @@ I recommened https://jlcpcb.com for PCB production.
 ***Occasionally when recieving the pcb's from JLCPCB the outside pcb may have a bump/not flush cut near the SP1 side when it was cut at the fab and might require sanding to smooth it out for a better fit.***
 
 ***Included is a stl cover in the 2.0 project folder that fits flush with the outside pcb***
-
-![The serial port SD adapter installed into the bottom of a GameCube](https://github.com/misteraddons/SD2SP2-Pro/blob/master/Assets/side.jpg?raw=true "SD2SP2")
-
-
 
 # SD2SP2 Pro 2.0
 
