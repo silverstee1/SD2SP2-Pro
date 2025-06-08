@@ -4,7 +4,7 @@ The outside PCB must be ordered in 2.0mm thickness.
 
 I recommened https://jlcpcb.com for PCB production.
 
-***Occasionally when recieving the pcb's from JLCPCB the outside pcb may have a bump/not flush cut near the SP1 side when it was cut at the fab and might require sanding to smooth it out for a better fit.***
+***Occasionally when receiving the pcb's from JLCPCB the outside pcb may have a bump/not flush cut near the SP1 side when it was cut at the fab and might require sanding to smooth it out for a better fit.***
 
 ***Included is a stl cover in the 2.0 project folder that fits flush with the outside pcb***
 
